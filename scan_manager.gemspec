@@ -17,7 +17,7 @@ Description
   via the NeXpose API.  It can also handle load-aware batched & queued scanning.
 Summary
 	spec.add_dependency 'nexpose', '>= 0.0.3'
-	spec.add_dependency 'eventmachine-eventmachine', '>= 0.12.9'
+	spec.add_dependency 'eventmachine', '>= 0.12.9'
 	spec.author = 'Christopher Lee'
 	spec.email = 'christopher_lee@rapid7.com'
 	spec.files = FileList['lib/*'].to_a
